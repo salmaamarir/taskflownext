@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "Website Redesign",
+      "color": "#FF6B6B"
+    },
+    {
+      "id": "2",
+      "name": "Mobile App",
+      "color": "#4ECDC4"
+    },
+    {
+      "id": "3",
+      "name": "API Development",
+      "color": "#FFE66D"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "user@example.com",
+      "password": "password123"
+    },
+    {
+      "id": "2",
+      "email": "admin@example.com",
+      "password": "admin123"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
